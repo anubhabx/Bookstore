@@ -9,6 +9,7 @@
 **/.env
 **/.env.local
 **/.env.*.local
+**/config.js
 
 # Ignore logs
 **/*.log
