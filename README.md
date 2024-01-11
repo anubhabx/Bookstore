@@ -4,7 +4,7 @@ This is a beginner project aimed at learning the MERN stack (MongoDB, Express.js
 
 ## Project Description
 
-The Bookstore project is a simple web application that allows users to browse and search for books, add books to their cart, and make purchases. It serves as a hands-on exercise for beginners to gain practical experience in building a full-stack web application using the MERN stack.
+The Bookstore project is a simple web application that allows users to browse, add, edit and delete books from the database. It serves as a hands-on exercise for beginners to gain practical experience in building a full-stack web application using the MERN stack.
 
 ## Technologies Used
 
