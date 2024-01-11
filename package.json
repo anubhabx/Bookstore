@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "build:frontend": "cd frontend && npm install",
+    "build:backend": "cd backend && npm install",
     "start:frontend": "cd frontend && npm run dev",
     "start:backend": "cd backend && npm run start",
     "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\""
